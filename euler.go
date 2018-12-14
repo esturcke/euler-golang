@@ -9,6 +9,7 @@ type Problem struct {
 var problems = []Problem{
 	{solve1, "233168"},
 	{solve2, "4613732"},
+	{solve3, "6857"},
 }
 
 // GetProblem `n`
